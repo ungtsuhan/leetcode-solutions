@@ -2,8 +2,8 @@
 
 My solution for LeetCode lessons in Python
 
-## Problem
+## Problems
 
-| Index | Problems | 
-| --- | --- |
-| 0001 | [Two Sum](https://github.com/ungtsuhan/leetcode-lessons/blob/main/problems/0001_TwoSum/0001_TwoSum_01.py) |
+| Index | Problems | Difficulty | Tag |
+| --- | --- | --- | --- |
+| 0001 | [Two Sum](https://github.com/ungtsuhan/leetcode-lessons/blob/main/problems/0001_TwoSum) | Easy | Array, Hash Table |
