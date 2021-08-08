@@ -23,7 +23,6 @@ class Solution:
 # Unit Test
 import unittest
 class TwoSumCase(unittest.TestCase):
-    
     def test_twoSum(self):
         func = Solution().twoSum
         self.assertEqual(func([2, 7, 11, 15], 9), [0, 1])
