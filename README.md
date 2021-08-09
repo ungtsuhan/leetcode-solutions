@@ -12,4 +12,4 @@ My solution for LeetCode lessons in Python
 | 0175 | [Combine Two Tables](problems/0175_CombineTwoTables) | Easy | Database |
 | 0181 | [Employee Earning More Than Their Managers](problems/0192_DuplicateEmails) | Easy | Database |
 | 0182 | [Duplicate Emails](problems/0181_EmployeeEarningMoreThanTheirManagers) | Easy | Database |
-| 1114 | [Print In Order](problems/1114_PrintInOrder) | Easy | Database |
+| 1114 | [Print In Order](problems/1114_PrintInOrder) | Easy | Concurrency |
