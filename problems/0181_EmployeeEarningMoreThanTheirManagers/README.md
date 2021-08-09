@@ -1,4 +1,4 @@
-# Second Highest Salary
+# Employe eEarning More Than Their Managers
 
 - Difficulty: Easy
 
