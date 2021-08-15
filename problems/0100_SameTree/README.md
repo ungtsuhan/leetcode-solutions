@@ -2,7 +2,7 @@
 
 - Difficulty: Easy
 
-- Tag: `Tree`, `Depth-First Search`, `Binary Tree`
+- Tag: `Tree`, `Binary Tree`, `Depth-First Search`, `Breadth-First Search`
 
 ## Problem Description
 
