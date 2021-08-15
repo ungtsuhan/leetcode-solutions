@@ -1,7 +1,7 @@
 """
 Date        : 15 August 2021
-Runtime     : 42 ms, faster than 6.44% of Python3 online submissions for Same Tree.
-Memory Usage: 14.2 MB, less than 63.02% of Python3 online submissions for Same Tree.
+Runtime     : 32 ms, faster than 57.39% of Python3 online submissions for Same Tree.
+Memory Usage: 14.3 MB, less than 63.02% of Python3 online submissions for Same Tree.
 """
 
 # Definition for a binary tree node.
@@ -27,12 +27,7 @@ class Solution:
             return False
 
         # check left and right child node recursively
-        if not self.isSameTree(p.left, q.left): 
-            return False
-        if not self.isSameTree(p.right, q.right): 
-            return False
-        
-        return True
+        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
 
 # Unit Test
 import unittest
