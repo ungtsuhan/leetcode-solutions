@@ -4,9 +4,9 @@ Runtime     : 32 ms, faster than 80.94% of Python3 online submissions for Symmet
 Memory Usage: 14.1 MB, less than 92.85% of Python3 online submissions for Symmetric Tree.
 """
 
-# Definition for a binary tree node.
 from typing import Optional
 
+# Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
