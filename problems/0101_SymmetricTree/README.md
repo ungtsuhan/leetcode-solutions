@@ -26,7 +26,7 @@ Example 2:
      1
    /   \
   2     2
- / \   / \
+   \     \
     3     3
 
 Input: root = [1,2,2,null,3,null,3]
