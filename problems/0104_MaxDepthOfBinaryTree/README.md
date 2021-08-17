@@ -1,4 +1,4 @@
-# Symmetric Tree
+# Maximum Depth of Binary Tree
 
 - Difficulty: Easy
 
