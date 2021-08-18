@@ -1,5 +1,5 @@
 """
-Date        : 16 August 2021
+Date        : 18 August 2021
 Runtime     : 4 ms, faster than 59.64% of Python3 online submissions for Path Sum.
 Memory Usage: 15.9 MB, less than 58.07% of Python3 online submissions for Path Sum.
 """
