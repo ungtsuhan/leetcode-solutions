@@ -5,6 +5,9 @@ Memory Usage: 15.3 MB, less than 41.63% of Python3 online submissions for Two Su
 """
 
 class Solution:
+    '''
+    Time complexity : O(n). It traverse the array only once.
+    '''
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
