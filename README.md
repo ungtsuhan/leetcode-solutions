@@ -14,7 +14,8 @@ My solution for LeetCode lessons in Python
 | 0101 | [Symmetric Tree](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0101_SymmetricTree) | Easy | Tree, Binary Tree, DFS, BFS |
 | 0104 | [Maximum Depth Of Binary Tree](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0104_MaxDepthOfBinaryTree) | Easy | Tree, Binary Tree, DFS, BFS |
 | 0112 | [Path Sum](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0112_PathSum) | Easy | Tree, Binary Tree, DFS |
-| 0175 | [Combine Two Tables](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0175_CombineTwoTables) | Easy | Database |
+| 0134 | [Gas Station](https://github.com/ungtsuhan/leetcode-lessons/blob/main/problems/0134_GasStation/0134_GasStation_01.py) | Medium | Greedy, Array |
+ 0175 | [Combine Two Tables](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0175_CombineTwoTables) | Easy | Database |
 | 0181 | [Employee Earning More Than Their Managers](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0192_DuplicateEmails) | Easy | Database |
 | 0182 | [Duplicate Emails](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0181_EmployeeEarningMoreThanTheirManagers) | Easy | Database |
 | 0183 | [Customers Who Never Order](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0183_CustomersWhoNeverOrder) | Easy | Database |
