@@ -1,3 +1,7 @@
+# Task 1
+
+## Problem Description
+
 Battleships is a game played on a rectangular board. You are given a representation of such a board of size N(height) x M(width) with information about the locations of the ships.
 
 The board is given as an array B, whose every element is a string that corresponds to one row of the game board. Each character of each string represents a cell of the board and is either:
