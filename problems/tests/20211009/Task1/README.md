@@ -9,17 +9,21 @@ Two cells that share a side and have a value of '#' are part of the same ship. C
 In the Battleships game there are three types of ships:
 
 Patrol Boats of size 1:
+
 ![PatrolBoat](assets/patrolboat.png)
 
 Submarines of size 2, which come in two shapes:
+
 ![Submarine](assets/submarine.png)
 
 Destroyers of size 3, which come in six shapes:
+
 ![Destroyer](assets/destroyer.png)
 
 Your task is to find the number of ships of each type occurring on the board.
 
 For example, on the board represented by B = [".##.#", "#.#..","#...#","#.##."], there are two patrol boats (marked on the image elow as 'P'), one submarine ('S') and two destroyers ('D').
+
 ![Case1](assets/case1.png)
 
 
@@ -37,12 +41,15 @@ Examples:
 1. Given B = ['.##.#','#.#..','#...#','#.##.'], the function should return [2,1,2] as explained above.
 
 2. Given B = ['.#..#','##..#','...#.'], the function should return [1,1,1].
+
 ![Case2](assets/case2.png)
 
 3. Given B = ['##.','#.#','.##'], the function should return [0,0,2].
+
 ![Case3](assets/case3.png)
 
 4. Given B = ['...','...','...'], the function should return [0,0,0]
+
 ![Case4](assets/case4.png)
 
 Assume that:
