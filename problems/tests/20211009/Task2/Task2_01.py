@@ -1,3 +1,7 @@
+"""
+Date        : 9 October 2021
+"""
+
 class Solution:
 
     def solution(self, U, L, C):
