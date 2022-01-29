@@ -11,6 +11,7 @@ My solution for LeetCode lessons in Python
 | 0009 | [Palindrome Number](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0009_PalindromeNumber) | Easy | Math |
 | 0053 | [Maximum Subarray](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0053_MaximumSubArray) | Easy | Array, Divide and Conquer, Dynamic Programming |
 | 0058 | [Length Of Last Word](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0058_LengthOfLastWord) | Easy | String |
+| 0088 | [Merge Sorted Array](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0088_MergeSortedArray) | Easy | Array, Two Pointer, Sorting |
 | 0100 | [Same Tree](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0100_SameTree) | Easy | Tree, Binary Tree, DFS, BFS |
 | 0101 | [Symmetric Tree](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0101_SymmetricTree) | Easy | Tree, Binary Tree, DFS, BFS |
 | 0104 | [Maximum Depth Of Binary Tree](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0104_MaxDepthOfBinaryTree) | Easy | Tree, Binary Tree, DFS, BFS |
