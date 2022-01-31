@@ -28,6 +28,7 @@ My solution for LeetCode lessons in Python
 | 0278 | [First Bad Version](https://github.com/ungtsuhan/leetcode-lessons/blob/main/problems/0278_FirstBadVersion/0278_FirstBadVersion_01.py) | Easy | Binary Search, Interactive |
 | 0326 | [Power Of Three](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0326_PowerOfThree) | Easy | Math, Recursion |
 | 0350 | [Intersect Of Two Arrays II](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0350_IntersectOfTwoArraysII) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
+| 0566 | [Reshape the Matrix](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0566_ReshapeTheMatrix) | Easy | Array, Matrix, Simulation |
 | 0704 | [Binary Search](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0704_BinarySearch) | Easy | Array, Binary Search |
 | 1114 | [Print In Order](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/1114_PrintInOrder) | Easy | Concurrency |
 | 1952 | [Three Divisors](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/1952_ThreeDivisors) | Easy | Math |
