@@ -1,6 +1,6 @@
 # Add Two Numbers
 
-- Difficulty: Easy
+- Difficulty: Medium
 
 - Tag: `LinkedList`, `Math`, `Recursion`
 
