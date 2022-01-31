@@ -7,7 +7,7 @@ My solution for LeetCode lessons in Python
 | Index | Problems | Difficulty | Tag |
 | --- | --- | --- | --- |
 | 0001 | [Two Sum](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0001_TwoSum) | Easy | Array, Hash Table |
-| 0001 | [Add Two Numbers](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0002_AddTwoNumbers) | Medium | Linked List, Math, Recursion |
+| 0002 | [Add Two Numbers](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0002_AddTwoNumbers) | Medium | Linked List, Math, Recursion |
 | 0007 | [Reverse Integer](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0007_ReverseInteger) | Easy | Math |
 | 0009 | [Palindrome Number](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0009_PalindromeNumber) | Easy | Math |
 | 0053 | [Maximum Subarray](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0053_MaximumSubArray) | Easy | Array, Divide and Conquer, Dynamic Programming |
