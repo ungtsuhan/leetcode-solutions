@@ -27,6 +27,7 @@ My solution for LeetCode lessons in Python
 | 0196 | [Delete Duplicate Emails](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0196_DeleteDuplicateEmails) | Easy | Database |
 | 0197 | [Rising Temperature](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0197_RisingTemperature) | Easy | Database |
 | 0217 | [Contains Duplicate](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0217_ContainsDuplicate) | Easy | Array, Hash Table, Sorting |
+| 0242 | [Valid Anagram](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0242_ValidAnagram) | Easy | Hash Table, String, Sorting |
 | 0278 | [First Bad Version](https://github.com/ungtsuhan/leetcode-lessons/blob/main/problems/0278_FirstBadVersion/0278_FirstBadVersion_01.py) | Easy | Binary Search, Interactive |
 | 0326 | [Power Of Three](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0326_PowerOfThree) | Easy | Math, Recursion |
 | 0350 | [Intersect Of Two Arrays II](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0350_IntersectOfTwoArraysII) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
