@@ -1,7 +1,7 @@
 """
 Date        : 8 October 2021
-Runtime     : 7308 ms, faster than 5.01% of Python3 online submissions for Gas Station.
-Memory Usage: 17.8 MB, less than 22.42% of Python3 online submissions for Gas Station.
+Runtime     : N/A (Time Limit Exceeded)
+Memory Usage: N/A (Time Limit Exceeded)
 """
 
 class Solution:
