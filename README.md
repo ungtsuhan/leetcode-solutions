@@ -32,7 +32,7 @@ My solution for LeetCode lessons in Python
 | 0215 | [Kth Largest Element in an Array](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0215_KthLargestElementInAnArray) | Medium | Array, Divide and Conquer, Sorting, Heap(Priority Queue), Quickselect |
 | 0217 | [Contains Duplicate](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0217_ContainsDuplicate) | Easy | Array, Hash Table, Sorting |
 | 0242 | [Valid Anagram](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0242_ValidAnagram) | Easy | Hash Table, String, Sorting |
-| 0278 | [First Bad Version](https://github.com/ungtsuhan/leetcode-lessons/blob/main/problems/0278_FirstBadVersion/0278_FirstBadVersion_01.py) | Easy | Binary Search, Interactive |
+| 0278 | [First Bad Version](https://github.com/ungtsuhan/leetcode-lessons/blob/main/problems/0278_FirstBadVersion) | Easy | Binary Search, Interactive |
 | 0326 | [Power Of Three](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0326_PowerOfThree) | Easy | Math, Recursion |
 | 0350 | [Intersect Of Two Arrays II](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0350_IntersectOfTwoArraysII) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 0383 | [Ransom Note](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0383_RansomNote) | Easy | Hash Table, String, Counting |
