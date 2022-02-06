@@ -29,7 +29,7 @@ My solution for LeetCode lessons in Python
 | 0183 | [Customers Who Never Order](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0183_CustomersWhoNeverOrder) | Easy | Database |
 | 0196 | [Delete Duplicate Emails](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0196_DeleteDuplicateEmails) | Easy | Database |
 | 0197 | [Rising Temperature](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0197_RisingTemperature) | Easy | Database |
-| 0215 | [Kth Largest Element in an Array]https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0215_KthLargestElementInAnArray) | Medium | Array, Divide and Conquer, Sorting, Heap(Priority Queue), Quickselect |
+| 0215 | [Kth Largest Element in an Array](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0215_KthLargestElementInAnArray) | Medium | Array, Divide and Conquer, Sorting, Heap(Priority Queue), Quickselect |
 | 0217 | [Contains Duplicate](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0217_ContainsDuplicate) | Easy | Array, Hash Table, Sorting |
 | 0242 | [Valid Anagram](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0242_ValidAnagram) | Easy | Hash Table, String, Sorting |
 | 0278 | [First Bad Version](https://github.com/ungtsuhan/leetcode-lessons/blob/main/problems/0278_FirstBadVersion/0278_FirstBadVersion_01.py) | Easy | Binary Search, Interactive |
