@@ -15,12 +15,12 @@ class Solution:
         :rtype: List[int]
         """
         hashMap = {}
-        for i in range(len(nums)):
-            complement = target - nums[i]
-            if(complement in hashMap):
+        for i, item in enumerate(nums):
+            complement = target - item
+            if complement in hashMap:
                 return [hashMap[complement], i]
             else:
-                hashMap[nums[i]] = i
+                hashMap[item] = i
         raise ValueError("No two sum solution")
 
 # Unit Test
