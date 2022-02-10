@@ -12,6 +12,7 @@ My solution for LeetCode lessons in Python
 | 0004 | [Median of Two Sorted Arrays](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0004_MedianOfTwoSortedArrays) | Hard | Array, Binary Search, Divide and Conquer |
 | 0005 | [Longest Palindromic Substring](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0005_LongestPalindromicSubstring) | Medium | String, Dynamic Programming |
 | 0007 | [Reverse Integer](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0007_ReverseInteger) | Easy | Math |
+| 0008 | [String To Integer (Atoi)](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0008_StringToIntegerAtoi) | Medium | String |
 | 0009 | [Palindrome Number](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0009_PalindromeNumber) | Easy | Math |
 | 0020 | [Valid Parentheses](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0020_ValidParentheses) | Easy | String, Stack |
 | 0053 | [Maximum Subarray](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0053_MaximumSubArray) | Easy | Array, Divide and Conquer, Dynamic Programming |
