@@ -1,6 +1,6 @@
-# LeetCode Solutions (Python)
+# LeetCode Solutions
 
-My solution for LeetCode lessons in Python
+My solution for LeetCode lessons
 
 ## Problems
 
