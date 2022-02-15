@@ -24,6 +24,7 @@ My solution for LeetCode lessons
 | 0020 | [Valid Parentheses](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0020_ValidParentheses) | Easy | String, Stack |
 | 0021 | [Merge Two Sorted Lists](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0021_MergeTwoSortedLists) | Easy | Linked List, Recursion |
 | 0022 | [Generate Parentheses](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0022_GenerateParentheses) | Medium | String, Dynamic Programming, Backtracking |
+| 0023 | [Merge k Sorted Lists](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0023_MergeKSortedLists) | Hard | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort |
 | 0026 | [Remove Duplicates from Sorted Array](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0026_RemoveDuplicatesFromSortedArray) | Easy | Array, Two Pointers |
 | 0028 | [Implement strStr()](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0028_ImplementStrStr) | Easy | Two Pointers, String, String Matching |
 | 0053 | [Maximum Subarray](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0053_MaximumSubArray) | Easy | Array, Divide and Conquer, Dynamic Programming |
