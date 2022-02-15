@@ -18,6 +18,7 @@ My solution for LeetCode lessons
 | 0011 | [Container With Most Water](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0011_ContainerWithMostWater) | Medium | Array, Two Pointers, Greedy |
 | 0013 | [Roman To Integer](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0013_RomanToInteger) | Easy | Hash Table, Math, String |
 | 0014 | [Longest Common Prefix](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0014_LongestCommonPrefix) | Easy | String |
+| 0015 | [3Sum](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0015_3Sum) | Medium | Array, Two Pointer, String |
 | 0020 | [Valid Parentheses](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0020_ValidParentheses) | Easy | String, Stack |
 | 0053 | [Maximum Subarray](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0053_MaximumSubArray) | Easy | Array, Divide and Conquer, Dynamic Programming |
 | 0058 | [Length Of Last Word](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0058_LengthOfLastWord) | Easy | String |
