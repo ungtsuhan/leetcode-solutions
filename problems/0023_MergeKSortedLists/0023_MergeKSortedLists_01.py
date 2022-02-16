@@ -13,6 +13,11 @@ class ListNode:
         self.next = next
 
 class Solution:
+    '''
+    Approach: Divide and Conquer
+    Time Complexity: O(NlogK)
+    '''
+
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
          # if list is null or length of list is 0
         if not lists or len(lists) == 0:
