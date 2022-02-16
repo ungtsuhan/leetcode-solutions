@@ -37,6 +37,7 @@ My solution for LeetCode lessons
 | 0118 | [Pascal's Triangle](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0118_PascalTriangle) | Easy | Array, Dynamic Programming |
 | 0121 | [Best Time To Buy and Sell Stock](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0121_BestTimeToBuyAndSellStock) | Easy | Array, Dynamic Programming |
 | 0134 | [Gas Station](https://github.com/ungtsuhan/leetcode-lessons/blob/main/problems/0134_GasStation/0134_GasStation_01.py) | Medium | Greedy, Array |
+| 0146 | [LRU Cache](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0146_LRUCache) | Medium | Hash Table, Linked List, Design, Doubly-Linked List |
 | 0175 | [Combine Two Tables](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0175_CombineTwoTables) | Easy | Database |
 | 0181 | [Employee Earning More Than Their Managers](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0192_DuplicateEmails) | Easy | Database |
 | 0182 | [Duplicate Emails](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0181_EmployeeEarningMoreThanTheirManagers) | Easy | Database |
