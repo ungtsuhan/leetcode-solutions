@@ -27,6 +27,7 @@ My solution for LeetCode lessons
 | 0023 | [Merge k Sorted Lists](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0023_MergeKSortedLists) | Hard | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort |
 | 0026 | [Remove Duplicates from Sorted Array](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0026_RemoveDuplicatesFromSortedArray) | Easy | Array, Two Pointers |
 | 0028 | [Implement strStr()](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0028_ImplementStrStr) | Easy | Two Pointers, String, String Matching |
+| 0029 | [Divide Two Integers](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0029_DivideTwoIntegers) | Medium | Math, Bit Manipulation |
 | 0053 | [Maximum Subarray](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0053_MaximumSubArray) | Easy | Array, Divide and Conquer, Dynamic Programming |
 | 0058 | [Length Of Last Word](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0058_LengthOfLastWord) | Easy | String |
 | 0088 | [Merge Sorted Array](https://github.com/ungtsuhan/leetcode-lessons/tree/main/problems/0088_MergeSortedArray) | Easy | Array, Two Pointer, Sorting |
