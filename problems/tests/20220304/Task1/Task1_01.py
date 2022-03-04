@@ -1,5 +1,3 @@
-
-
 class Solution:
     def find_element(self, arr):
         sumLeft, sumRight = 0, 0
